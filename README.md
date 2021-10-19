@@ -1,10 +1,14 @@
 # API_Testing_Using_Postman
 
 
-GET Method: Get Book
+GET Method
 
-POST Method: Create Book
+POST Method
 
-PUT Method: Update Book
+PUT Method
+
+PATCH Method
+
+DELETE Method
 
 Access Token
